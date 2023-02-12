@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Counter_App</string>
+    <string name="counter_page">Counter Page</string>
+    <string name="enter_the_range">ENTER THE RANGE</string>
+    <string name="cick_me_to_count">Cick me to Count</string>
+    <string name="enter_value">enter value</string>
+    <string name="add">ADD</string>
+    <string name="enter_value_2">enter value</string>
+    <string name="btn">ADD</string>
+    <string name="enter_any_text">enter any text</string>
+    <string name="enter_any_text_1">Enter Any Text</string>
+</resources>
